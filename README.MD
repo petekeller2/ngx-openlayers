@@ -1,3 +1,10 @@
+# Test Notes
+
+dist was copied to example/src/app/
+
+Based on this example: 
+https://codepen.io/anon/pen/mBepBw?editors=0010
+
 # ngx-openlayers [![Build Status](https://travis-ci.org/quentin-ol/ngx-openlayers.svg?branch=master)](https://travis-ci.org/quentin-ol/ngx-openlayers)[![Join the chat at https://gitter.im/ngx-openlayers](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ngx-openlayers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Installation
